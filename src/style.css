@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #62c0f6b5;
+    background-image: linear-gradient(135deg, #62c0f6b5, #f5c3cc);
+}
+
+button {
+    border: 1px solid palevioletred;
+    border-radius: 5px;
+    background-color: #f5c3cc;
+    color: rgb(2, 119, 137);
+    box-shadow: 0 5px 10px palevioletred;
+    height:40px;
+    width: 80px;
+}
